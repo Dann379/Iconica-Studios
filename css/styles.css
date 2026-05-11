@@ -196,13 +196,13 @@
       font-size: 18px;
       font-weight: 300;
       letter-spacing: 0.18em;
-      text-transform: uppercase;
-      color: var(--text);
+      /* text-transform: uppercase; */
+      color: var(--text-2);
     }
 
     .nav__logo em {
       color: var(--accent-dk);
-      font-style: italic;
+      /* font-style: italic; */
     }
 
     .nav__links {
